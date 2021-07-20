@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Make yourself look cool!
 // @author       Edit
-// @match        https://artofproblemsolving.com/classroom/room/*
+// @match        https://artofproblemsolving.com/classroom/*
 // @icon         https://www.google.com/s2/favicons?domain=artofproblemsolving.com
 // @grant        none
 // ==/UserScript==
